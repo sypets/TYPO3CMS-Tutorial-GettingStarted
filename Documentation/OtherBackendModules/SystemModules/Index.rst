@@ -7,6 +7,12 @@
 System Modules
 ==============
 
+.. important::
+
+   This chapters cover modules that will only be available for backend users
+   with :ref:`"admin" <admin-user>` access privileges.
+
+
 In the :ref:`User Management <user-management>` chapter we covered the
 *Access* and *Backend Users* module. In this section we take a look
 at the remaining modules.

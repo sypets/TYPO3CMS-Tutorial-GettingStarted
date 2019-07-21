@@ -11,7 +11,7 @@ Tutorial for Editors
 ====================
 
 The :ref:`t3editors:start` explains how to add and amend content on an existing TYPO3 based website.
-It provides simple, step-by-step instructions that allows you to being using TYPO3 quickly.
+It provides simple, step-by-step instructions.
 
 Video
 -----
@@ -25,10 +25,6 @@ Link: `Introduction to TYPO3 8 LTS for Editors <https://www.youtube.com/watch?v=
 
    This video is for TYPO3 8, but you will find that most of what is covered also
    applies to TYPO3 9.
-
-You may also want to check out the
-`TYPO3 YouTube channel <https://www.youtube.com/user/typo3/videos>`__
-for more videos on TYPO3.
 
 
 Rich Text Editing

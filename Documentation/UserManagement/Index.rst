@@ -7,6 +7,11 @@
 Backend User Management
 =======================
 
+.. important::
+
+   This chapters (and the following) cover modules that will only be available for backend users
+   with :ref:`"admin" <admin-user>` access privileges.
+
 We saw earlier that TYPO3 CMS enforces a strict separation of
 so-called "frontend" and "backend". The same is true for users:
 there are "frontend users", who are web site visitors, and
@@ -21,6 +26,7 @@ permissions.
    :titlesonly:
    :glob:
 
+   BackendPrivileges/Index
    BackendUsers/Index
    Groups/Index
    GroupPermissions/Index
